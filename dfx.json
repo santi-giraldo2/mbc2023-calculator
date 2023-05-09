@@ -1,0 +1,8 @@
+{
+    "canisters": {
+        "mbc2023-calculator": {
+            "main": "main.mo",
+            "type": "motoko"
+        }
+    }
+}
